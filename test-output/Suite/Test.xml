@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ChInnU" name="scripts.Gmail" tests="1" failures="0" timestamp="6 Jul 2018 07:33:11 GMT" time="2.752" errors="0">
+  <testcase name="gmail" time="2.741" classname="scripts.Gmail"/>
+</testsuite>
