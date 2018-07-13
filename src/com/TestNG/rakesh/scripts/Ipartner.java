@@ -43,8 +43,12 @@ public void login() throws EncryptedDocumentException, InvalidFormatException, I
 		
 		click(prOr.getpropertyvalue("I_xpt"), LocMechValues.xpath);
 		
+
 		Thread.sleep(7000);
 		System.out.println("git did");
+
+		
+
 		switchmultWinds(1);
 		
 		enterData(prOr.getpropertyvalue("I_un"), LocMechValues.id, prConf.getpropertyvalue("Icnf_un"));
